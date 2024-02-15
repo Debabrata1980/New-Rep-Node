@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Debabrata1980/New-Rep-Node/issues"
   },
-  "homepage": "https://github.com/Debabrata1980/New-Rep-Node#readme"
+  "homepage": "https://github.com/Debabrata1980/New-Rep-Node#readme",
+  "publishConfig": {
+   "@Debabrata1980:registry": "https://npm.pkg.github.com"
+}
 }
